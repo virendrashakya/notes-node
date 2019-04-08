@@ -1,3 +1,3 @@
-module.export.addNote = () => {
+module.exports.addNote = () => {
   return 'New Note';
 };
